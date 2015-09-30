@@ -1196,6 +1196,14 @@
    countries: pl 
    desc_de: Bitcoin Börse. Zahle PLN über lokale Banküberweisungen ein.
    
+ - name: BiBay
+   desc: Bitcoin and Litecoin exchange in Poland. Deposit via bank transfer or SEPA.     
+   url: https://bitbay.net/
+   icon: https://bitbay.net/Platforms/Internal/BitBay/assets/images/logo.png
+   countries: pl
+   po: sepa
+   desc_de: Bitcoin und Litecoin Börse in Polen. Geld über Banküberweisungen oder SEPA einzahlen.
+   
 ##### Romania ####################################################      
 
  - name: Bitcoin Romania
